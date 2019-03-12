@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-03-11_2120",
+    "name": "Kami no tonari ni",
     "currentPage": "Home",
     "theme": {
       "name": "default",
@@ -11,7 +11,8 @@
     "uniqCompNum": 11,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x106.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "Home": {
